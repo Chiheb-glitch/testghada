@@ -1,0 +1,454 @@
+.page5-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.page5-page5 {
+  width: 100%;
+  height: 853px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.page5-image {
+  top: 514px;
+  left: 395px;
+  width: 431px;
+  height: 255px;
+  position: absolute;
+  border-color: transparent;
+}
+.page5-image1 {
+  top: 539px;
+  left: 427px;
+  width: 108px;
+  height: 166px;
+  position: absolute;
+  border-color: transparent;
+}
+.page5-text {
+  top: 589px;
+  left: 555px;
+  color: rgba(255, 255, 255, 1);
+  width: 254px;
+  height: auto;
+  position: absolute;
+  font-size: 9px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.page5-text01 {
+  font-weight: 400;
+}
+.page5-text07 {
+  font-weight: 700;
+}
+.page5-image2 {
+  top: 571px;
+  left: 555px;
+  width: 34px;
+  height: 6.05941104888916px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.page5-star11 {
+  top: 0.3366388976573944px;
+  left: 28.2772274017334px;
+  width: 5.722772121429443px;
+  height: 5.722772121429443px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.page5-frame01aligncenter {
+  top: 0.029090676456689835px;
+  left: -0.015022363513708115px;
+  width: 5.7525787353515625px;
+  height: 5.530582427978516px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.page5-vector {
+  top: 0px;
+  left: 0px;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+}
+.page5-star1 {
+  top: 0px;
+  left: 0px;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+}
+.page5-star2 {
+  top: 0px;
+  left: 7.069311141967773px;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+}
+.page5-star3 {
+  top: 0px;
+  left: 14.138622283935547px;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+}
+.page5-star4 {
+  top: 0px;
+  left: 21.207916259765625px;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+}
+.page5-button {
+  top: 684px;
+  left: 555px;
+  width: 80px;
+  height: 21px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.page5-group13 {
+  top: 0px;
+  left: 0px;
+  width: 80px;
+  height: 21px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(74, 74, 74, 1);
+}
+.page5-rectangle4 {
+  top: 0px;
+  left: 0px;
+  width: 80px;
+  height: 21px;
+  position: absolute;
+  border-color: transparent;
+}
+.page5-text19 {
+  top: 4px;
+  left: 11px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 11px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.page5-text21 {
+  top: 557px;
+  left: 555px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.page5-text23 {
+  top: 539px;
+  left: 555px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.page5-navlink {
+  display: contents;
+}
+.page5-container1 {
+  top: 727px;
+  left: 427px;
+  width: 80px;
+  height: 20px;
+  display: flex;
+  z-index: 100;
+  position: absolute;
+  transition: 0.3s;
+  align-items: flex-start;
+  text-decoration: none;
+}
+.page5-container1:hover {
+  cursor: pointer;
+}
+.page5-text24 {
+  top: -1px;
+  color: rgba(255, 255, 255, 1);
+  right: -3px;
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.page5-image3 {
+  top: 5px;
+  left: 3px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.page5-text26 {
+  top: 29px;
+  left: 0px;
+  color: rgb(255, 255, 255);
+  right: 0px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.page5-navlink1 {
+  left: 0px;
+  color: var(--dl-color-gray-white);
+  right: 0px;
+  width: 119px;
+  bottom: 33px;
+  height: 30px;
+  margin: auto;
+  position: absolute;
+  font-size: 13px;
+  border-width: 0px;
+  border-radius: 0px;
+  text-decoration: none;
+  background-color: rgb(74, 74, 74);
+}
+@media(max-width: 991px) {
+  .page5-image {
+    left: 271px;
+  }
+  .page5-image1 {
+    left: 303px;
+  }
+  .page5-text {
+    left: 431px;
+  }
+  .page5-image2 {
+    left: 431px;
+  }
+  .page5-button {
+    left: 431px;
+  }
+  .page5-text21 {
+    left: 431px;
+  }
+  .page5-text23 {
+    left: 431px;
+  }
+  .page5-container1 {
+    left: 303px;
+  }
+  .page5-text26 {
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    text-align: center;
+  }
+}
+@media(max-width: 767px) {
+  .page5-image {
+    left: 164px;
+  }
+  .page5-image1 {
+    left: 197px;
+  }
+  .page5-text {
+    left: 324px;
+  }
+  .page5-image2 {
+    left: 324px;
+  }
+  .page5-button {
+    left: 324px;
+  }
+  .page5-text21 {
+    left: 324px;
+  }
+  .page5-text23 {
+    left: 324px;
+  }
+  .page5-container1 {
+    left: 197px;
+  }
+  .page5-text24 {
+    top: 0px;
+    left: 13.00213623046875px;
+  }
+  .page5-image3 {
+    top: 6.0042724609375px;
+    left: 0px;
+  }
+}
+@media(max-width: 479px) {
+  .page5-image {
+    left: 24px;
+    bottom: 84px;
+    margin: auto;
+  }
+  .page5-image1 {
+    left: 60px;
+  }
+  .page5-text {
+    top: 587px;
+    left: 0px;
+    right: 0px;
+    margin-top: auto;
+    margin-left: 187px;
+    margin-right: auto;
+    margin-bottom: auto;
+  }
+  .page5-image2 {
+    left: 188px;
+  }
+  .page5-vector {
+    top: -1px;
+    left: 0px;
+  }
+  .page5-button {
+    left: 188px;
+  }
+  .page5-text21 {
+    left: 0px;
+    right: 0px;
+    margin-top: auto;
+    margin-left: 187px;
+    margin-right: auto;
+    margin-bottom: auto;
+  }
+  .page5-text23 {
+    top: 539px;
+    left: 0px;
+    color: rgb(255, 255, 255);
+    right: 0px;
+    font-size: 15px;
+    margin-top: auto;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 187px;
+    margin-right: auto;
+    margin-bottom: auto;
+    text-decoration: none;
+  }
+  .page5-container1 {
+    left: 60px;
+  }
+}

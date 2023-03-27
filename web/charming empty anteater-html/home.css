@@ -1,0 +1,141 @@
+.home-container {
+  width: 100%;
+  height: 853px;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.home-page1 {
+  width: 100%;
+  height: 853px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.home-image {
+  top: 0px;
+  left: 0px;
+  width: 1199px;
+  height: 855px;
+  position: absolute;
+  border-color: transparent;
+}
+.home-container1 {
+  top: 519px;
+  left: 0px;
+  width: 100%;
+  height: 219px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+}
+.home-text {
+  top: 0px;
+  left: 0px;
+  color: rgb(74, 74, 74);
+  right: 0px;
+  margin: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: normal;
+  text-align: center;
+  font-weight: 500;
+}
+.home-text01 {
+  top: 50px;
+  left: 0px;
+  color: rgb(74, 74, 74);
+  right: 0px;
+  margin: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: normal;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+}
+.home-image1 {
+  left: 0px;
+  right: 0px;
+  width: 100px;
+  bottom: 22px;
+  margin: auto;
+  position: absolute;
+  object-fit: cover;
+}
+.home-container2 {
+  left: 0px;
+  width: 100%;
+  bottom: 457px;
+  height: 174px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+}
+.home-text02 {
+  top: 0px;
+  left: 0px;
+  color: rgb(74, 74, 74);
+  right: 0px;
+  margin: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: normal;
+  text-align: center;
+  font-weight: 500;
+}
+.home-text03 {
+  top: 50px;
+  left: 0px;
+  color: #4a4a4a;
+  right: 0px;
+  margin: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: normal;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+}
+.home-navlink {
+  left: 0px;
+  color: var(--dl-color-gray-white);
+  right: 0px;
+  width: 174px;
+  bottom: 1px;
+  margin: auto;
+  position: absolute;
+  text-align: center;
+  border-width: 0px;
+  border-radius: 0px;
+  text-decoration: none;
+  background-color: #4A4A4A;
+}
+@media(max-width: 991px) {
+  .home-image {
+    width: 990px;
+    height: 853px;
+  }
+}
+@media(max-width: 767px) {
+  .home-image {
+    width: 766px;
+    height: 853px;
+  }
+}
+@media(max-width: 479px) {
+  .home-image {
+    width: 478px;
+    height: 849px;
+  }
+}
